@@ -1,4 +1,4 @@
-# Baseball game
+# Football game
 https://github.com/TimMitzen/textfootballgame.git
 
 open terminal and cd into whatever folder you cloned above
