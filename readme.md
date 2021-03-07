@@ -14,3 +14,5 @@ Game goes on for 2 minutes
 Clean up the code
 
 Have quarters instead of being timed
+
+Add 2 point conversions
